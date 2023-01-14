@@ -3,4 +3,4 @@
 - cd premmulti
 - ls
 - git pull
-- python prem.py
+- python prem_.py
